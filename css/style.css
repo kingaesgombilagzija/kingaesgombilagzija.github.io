@@ -5,7 +5,7 @@
 
 h1 {
     font-family: DoF;
-    font-size: 80px;
+    font-size: 50px;
     color:  #ad8330;
 }
 
@@ -17,14 +17,8 @@ h1 {
     border: 2px solid black;
 }
 
-.nav-item {
-    font-family: DoF;
-    font-size: 50px;
-    color:  #ad8330;
-}
-
 .italok {
     font-family: DoF;
-    font-size: 50px;
+    font-size: 20px;
     color:  #ad8330;
 }
