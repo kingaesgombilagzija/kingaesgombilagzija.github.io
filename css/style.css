@@ -1,0 +1,10 @@
+@font-face {
+    font-family: DoF;
+    src: url(../font/Daughter\ of\ Fortune.ttf);
+}
+
+h1 {
+    font-family: DoF;
+    font-size: 80px;
+    color:  #ad8330;
+}
